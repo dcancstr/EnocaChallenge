@@ -1,0 +1,37 @@
+[
+  {
+    "firmaId": 1,
+    "firmaAd": "Trendyol",
+    "onay": true,
+    "siparisIzinBaslangicSaat": "12:30:00",
+    "siparisIzinBitisSaat": "15:30:00"
+  },
+  {
+    "firmaId": 2,
+    "firmaAd": "HepsiBurada",
+    "onay": false,
+    "siparisIzinBaslangicSaat": "11:30:00",
+    "siparisIzinBitisSaat": "17:00:00"
+  },
+  {
+    "firmaId": 3,
+    "firmaAd": "Amazon",
+    "onay": true,
+    "siparisIzinBaslangicSaat": "13:30:00",
+    "siparisIzinBitisSaat": "18:30:00"
+  },
+  {
+    "firmaId": 4,
+    "firmaAd": "AliExpress",
+    "onay": true,
+    "siparisIzinBaslangicSaat": "10:30:00",
+    "siparisIzinBitisSaat": "14:30:00"
+  },
+  {
+    "firmaId": 5,
+    "firmaAd": "Etsy",
+    "onay": false,
+    "siparisIzinBaslangicSaat": "07:30:00",
+    "siparisIzinBitisSaat": "12:30:00"
+  }
+]

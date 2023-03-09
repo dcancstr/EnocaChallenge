@@ -22,8 +22,17 @@
 
   <ItemGroup>
     <None Remove="PostGreScript\" />
+    <None Remove="PostGreScript\ScreenShots\FirmaIslemleriSS\" />
+    <None Remove="PostGreScript\ScreenShots\SiparisIslemleriSS\" />
+    <None Remove="PostGreScript\ScreenShots\UrunIslemleriSS\" />
+    <None Remove="PostGreScript\Jsons\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="PostGreScript\" />
+    <Folder Include="PostGreScript\ScreenShots\" />
+    <Folder Include="PostGreScript\ScreenShots\FirmaIslemleriSS\" />
+    <Folder Include="PostGreScript\ScreenShots\SiparisIslemleriSS\" />
+    <Folder Include="PostGreScript\ScreenShots\UrunIslemleriSS\" />
+    <Folder Include="PostGreScript\Jsons\" />
   </ItemGroup>
 </Project>

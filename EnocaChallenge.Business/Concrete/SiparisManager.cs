@@ -40,7 +40,7 @@ namespace EnocaChallenge.Business.Concrete
             { return "Firma suan siparis alamiyor. Siparis saatleri: " + firma.SiparisIzinBaslangicSaat + "-" + firma.SiparisIzinBitisSaat; }
             var siparis = _mapper.Map<Siparis>(siparisVm);
             _siparisDal.Add(siparis);
-            return "Siparis eklendi";
+            return "Siparis basariyla eklendi";
         }
 
         public string Delete(int id)

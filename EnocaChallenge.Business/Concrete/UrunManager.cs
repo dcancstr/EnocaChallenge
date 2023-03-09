@@ -24,14 +24,21 @@ namespace EnocaChallenge.Business.Concrete
         public string Add(UrunVM urunVm)
         {
             var urun = _mapper.Map<Urun>(urunVm);
-            _urunDal.Add(urun);
-            return "Urun basariyla Eklendi";
+            if (urun.Stok > 0)
+            {
+                _urunDal.Add(urun);
+                return "Urun basariyla Eklendi";
+
+            }
+            else
+                 return "Stok sayisini pozitif giriniz";
+            
         }
 
         public string Delete(int id)
         {
             var urun = _urunDal.Get(u => u.UrunId == id);
-            if (urun == null) { return "Urun basariyla bulunamadi"; }
+            if (urun == null) { return "Urun malesef bulunamadi"; }
             _urunDal.Delete(urun);
             return "Urun basariyla silindi";
         }

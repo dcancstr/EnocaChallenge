@@ -1,0 +1,72 @@
+[
+  {
+    "urunId": 1,
+    "urunAdi": "Çiçek Saksısı\n",
+    "stok": 10,
+    "fiyat": 100,
+    "firmaId": 1
+  },
+  {
+    "urunId": 2,
+    "urunAdi": "Bulaşık eldiveni",
+    "stok": 5,
+    "fiyat": 50,
+    "firmaId": 1
+  },
+  {
+    "urunId": 3,
+    "urunAdi": "Kilim\n",
+    "stok": 15,
+    "fiyat": 200,
+    "firmaId": 1
+  },
+  {
+    "urunId": 4,
+    "urunAdi": "Tv Ünitesi",
+    "stok": 20,
+    "fiyat": 2000,
+    "firmaId": 2
+  },
+  {
+    "urunId": 5,
+    "urunAdi": "Çamaşır Sepeti",
+    "stok": 100,
+    "fiyat": 200,
+    "firmaId": 2
+  },
+  {
+    "urunId": 6,
+    "urunAdi": "Airfrey",
+    "stok": 10,
+    "fiyat": 8000,
+    "firmaId": 2
+  },
+  {
+    "urunId": 7,
+    "urunAdi": "Karaca Sofra",
+    "stok": 100,
+    "fiyat": 5000,
+    "firmaId": 3
+  },
+  {
+    "urunId": 8,
+    "urunAdi": "Twiling",
+    "stok": 300,
+    "fiyat": 1000,
+    "firmaId": 3
+  },
+  {
+    "urunId": 9,
+    "urunAdi": "Velitta Kahve Makinesi",
+    "stok": 400,
+    "fiyat": 2000,
+    "firmaId": 3
+  },
+  {
+    "urunId": 10,
+    "urunAdi": "Çaydanlık Seti",
+    "stok": 200,
+    "fiyat": 900,
+    "firmaId": 1
+  }
+]
