@@ -1,0 +1,14 @@
+/Users/dcancstr/Projects/Enoca/Enoca.Core/bin/Debug/net7.0/Enoca.Core.deps.json
+/Users/dcancstr/Projects/Enoca/Enoca.Core/bin/Debug/net7.0/Enoca.Core.runtimeconfig.json
+/Users/dcancstr/Projects/Enoca/Enoca.Core/bin/Debug/net7.0/Enoca.Core.dll
+/Users/dcancstr/Projects/Enoca/Enoca.Core/bin/Debug/net7.0/Enoca.Core.pdb
+/Users/dcancstr/Projects/Enoca/Enoca.Core/obj/Debug/net7.0/Enoca.Core.csproj.AssemblyReference.cache
+/Users/dcancstr/Projects/Enoca/Enoca.Core/obj/Debug/net7.0/Enoca.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dcancstr/Projects/Enoca/Enoca.Core/obj/Debug/net7.0/Enoca.Core.AssemblyInfoInputs.cache
+/Users/dcancstr/Projects/Enoca/Enoca.Core/obj/Debug/net7.0/Enoca.Core.AssemblyInfo.cs
+/Users/dcancstr/Projects/Enoca/Enoca.Core/obj/Debug/net7.0/Enoca.Core.csproj.CoreCompileInputs.cache
+/Users/dcancstr/Projects/Enoca/Enoca.Core/obj/Debug/net7.0/Enoca.Core.dll
+/Users/dcancstr/Projects/Enoca/Enoca.Core/obj/Debug/net7.0/refint/Enoca.Core.dll
+/Users/dcancstr/Projects/Enoca/Enoca.Core/obj/Debug/net7.0/Enoca.Core.pdb
+/Users/dcancstr/Projects/Enoca/Enoca.Core/obj/Debug/net7.0/Enoca.Core.genruntimeconfig.cache
+/Users/dcancstr/Projects/Enoca/Enoca.Core/obj/Debug/net7.0/ref/Enoca.Core.dll

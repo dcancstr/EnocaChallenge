@@ -1,0 +1,15 @@
+/Users/dcancstr/Projects/Enoca/Enoca.Entity/bin/Debug/net7.0/Enoca.Entity.deps.json
+/Users/dcancstr/Projects/Enoca/Enoca.Entity/bin/Debug/net7.0/Enoca.Entity.dll
+/Users/dcancstr/Projects/Enoca/Enoca.Entity/bin/Debug/net7.0/Enoca.Entity.pdb
+/Users/dcancstr/Projects/Enoca/Enoca.Entity/bin/Debug/net7.0/Enoca.Core.dll
+/Users/dcancstr/Projects/Enoca/Enoca.Entity/bin/Debug/net7.0/Enoca.Core.pdb
+/Users/dcancstr/Projects/Enoca/Enoca.Entity/obj/Debug/net7.0/Enoca.Entity.csproj.AssemblyReference.cache
+/Users/dcancstr/Projects/Enoca/Enoca.Entity/obj/Debug/net7.0/Enoca.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dcancstr/Projects/Enoca/Enoca.Entity/obj/Debug/net7.0/Enoca.Entity.AssemblyInfoInputs.cache
+/Users/dcancstr/Projects/Enoca/Enoca.Entity/obj/Debug/net7.0/Enoca.Entity.AssemblyInfo.cs
+/Users/dcancstr/Projects/Enoca/Enoca.Entity/obj/Debug/net7.0/Enoca.Entity.csproj.CoreCompileInputs.cache
+/Users/dcancstr/Projects/Enoca/Enoca.Entity/obj/Debug/net7.0/Enoca.Entity.csproj.CopyComplete
+/Users/dcancstr/Projects/Enoca/Enoca.Entity/obj/Debug/net7.0/Enoca.Entity.dll
+/Users/dcancstr/Projects/Enoca/Enoca.Entity/obj/Debug/net7.0/refint/Enoca.Entity.dll
+/Users/dcancstr/Projects/Enoca/Enoca.Entity/obj/Debug/net7.0/Enoca.Entity.pdb
+/Users/dcancstr/Projects/Enoca/Enoca.Entity/obj/Debug/net7.0/ref/Enoca.Entity.dll

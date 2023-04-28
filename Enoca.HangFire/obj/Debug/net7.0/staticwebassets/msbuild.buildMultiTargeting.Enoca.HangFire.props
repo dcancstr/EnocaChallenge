@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Enoca.HangFire.props" />
+</Project>

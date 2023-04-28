@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{006757F9-37D2-4FD9-A41F-5020CD9DE312}|https">
+  <MonoDevelop.Ide.ItemProperties.Enoca.UI PreferredExecutionTarget="/Applications/Opera.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Enoca" expanded="True">
+            <Node name="Enoca.DataAccess" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True" />
+              <Node name="Context.cs" selected="True" />
+            </Node>
+            <Node name="Enoca.HangFire">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="Enoca.UI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects" />
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Enoca.HangFire PreferredExecutionTarget="/Applications/Opera.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

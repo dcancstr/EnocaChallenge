@@ -1,0 +1,54 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Enoca.DataAccess\Enoca.DataAccess.csproj" />
+    <ProjectReference Include="..\Enoca.Entity\Enoca.Entity.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.5">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.5" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.5.2" />
+    <PackageReference Include="FluentValidation" Version="11.5.2" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Abstract\" />
+    <None Remove="Concrete\" />
+    <None Remove="AutoMappers\" />
+    <None Remove="ViewModels\" />
+    <None Remove="Validators\" />
+    <None Remove="ViewModels\Carrier\" />
+    <None Remove="ViewModels\CarrierConfiguration\" />
+    <None Remove="ViewModels\CarrierReport\" />
+    <None Remove="ViewModels\Order\" />
+    <None Remove="Validators\Carrier\" />
+    <None Remove="Validators\CarrierConfiguration\" />
+    <None Remove="Validators\Order\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Abstract\" />
+    <Folder Include="Concrete\" />
+    <Folder Include="AutoMappers\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Validators\" />
+    <Folder Include="ViewModels\Carrier\" />
+    <Folder Include="ViewModels\CarrierConfiguration\" />
+    <Folder Include="ViewModels\CarrierReport\" />
+    <Folder Include="ViewModels\Order\" />
+    <Folder Include="Validators\Carrier\" />
+    <Folder Include="Validators\CarrierConfiguration\" />
+    <Folder Include="Validators\Order\" />
+  </ItemGroup>
+</Project>
